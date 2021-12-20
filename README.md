@@ -6,7 +6,7 @@
 
 - 💻 I’m currently learning Kotlin and Web Dev
 - 🔭 Insya allah, will become an expert 😊
-- 📫 How to reach me : [Dribbble](https://dribbble.com/rtsss) [Email](mailto:haritsdeveloperidn@gmail.com)
+- 📫 How to reach me : [Dribbble](https://dribbble.com/rtsss) | [Email](mailto:haritsdeveloperidn@gmail.com) | [Instagram](https://www.instagram.com/hrtisa/)
 
 <br>
 
