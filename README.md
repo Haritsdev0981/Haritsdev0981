@@ -1,11 +1,11 @@
 ### Hi there, I'm Harits 🤘
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Kakyooiin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kakyooiin?ref_src=twsrc%5Etfw)
+[![Instagram Follow](https://img.shields.io/instagram/follow/hrtisa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/hrtisa/)
 
 ## I'm a Student At IDN Boarding School 
 
-- 🌱 I’m currently learning Kotlin and Web Dev
-- 🔭 I’m not an expert yet so right now i currently focusing on learning Kotlin and Web Dev 😅
+- 💻 I’m currently learning Kotlin and Web Dev
+- 🔭 Insya allah, will become an expert 😊
 - 📫 How to reach me : [Instagram](https://www.instagram.com/ananda_mrz/) [Email](mailto:ananda120206@gmail.com)
 
 <br>
