@@ -1,6 +1,6 @@
 ### Hi there, I'm Harits 🤘
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/hrtisa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/hrtisa/)
+[![Instagram Follow](https://img.shields.io/twitter/follow/risshaaaa?style=social?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/risshaaaa)
 
 ## I'm a Student At IDN Boarding School 
 
