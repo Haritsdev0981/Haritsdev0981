@@ -2,7 +2,7 @@
 
 [![Instagram Follow](https://img.shields.io/twitter/follow/risshaaaa?style=social?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/risshaaaa)
 <p align="left">
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=haritsdev0981&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
   </a>
   <br>
