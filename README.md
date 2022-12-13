@@ -1,12 +1,18 @@
 ### Hi there, I'm Harits 🤘
 
-[![Instagram Follow](https://img.shields.io/twitter/follow/risshaaaa?style=social?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/risshaaaa)
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=haritsdev0981&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
-  </a>
-  <br>
-</p>
+[![twitter Follow](https://img.shields.io/twitter/follow/risshaaaa?style=social?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/risshaaaa)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=haritsdev0981&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=haritsdev0981&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=haritsdev0981&show_icons=true" />
+</picture>
 
 ## I'm a Student At IDN Boarding School 
 
