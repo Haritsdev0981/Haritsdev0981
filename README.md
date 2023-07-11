@@ -1,7 +1,5 @@
 ### Hi there, I'm Harits 🤘
 
-[![twitter Follow](https://img.shields.io/twitter/follow/risshaaaa?style=social?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/risshaaaa)
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Haritsdev0981&show_icons=true&theme=dark"
