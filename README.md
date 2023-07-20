@@ -15,7 +15,7 @@
 ## I'm a Student At IDN Boarding School 
 
 - 💻 I’m currently learning Kotlin and Web Dev
-- 📫 How to reach me : [Dribbble](https://dribbble.com/rtsss) | [Email](mailto:haritsdeveloperidn@gmail.com) | [Instagram](https://www.instagram.com/hrtisa/)
+- 📫 How to reach me : [Dribbble](https://dribbble.com/rtsss) | [Email](mailto:haritsdeveloperidn@gmail.com) | [Instagram](https://www.instagram.com/iniharets/)
 
 <br>
 
